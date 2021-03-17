@@ -16,7 +16,7 @@ Requière [Python3](https://www.python.org/downloads/) pour s'executer.
 
 Cloner le projet
 ```
-git clone https://github.com/ltinnirello/domotique-python.git`
+git clone https://github.com/ltinnirello/domotique-python.git
 ```
 
 OU

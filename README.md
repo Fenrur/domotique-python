@@ -23,7 +23,7 @@ OU
 
 Cliquer sur le boutton vert **_Code_** vers le haut, _**Download ZIP**_, puis le dézip sur votre ordinateur
 
-Aller dans le dossier du projet projet, puis tapper la commande suivante
+Aller dans le dossier du projet, puis tapper la commande suivante
 
 ```
 pip install pyserial

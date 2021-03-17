@@ -14,21 +14,21 @@
 
 Requière [Python3](https://www.python.org/downloads/) pour s'executer.
 
-Cloner le projet avec le terminal
+Clonez le projet avec le terminal
 ```
 git clone https://github.com/ltinnirello/domotique-python.git
 ```
 
 OU
 
-Cliquer sur le boutton vert **_Code_** vers le haut, _**Download ZIP**_, puis le dézip sur votre ordinateur
+Cliquez sur le boutton vert **_Code_** vers le haut, _**Download ZIP**_, puis le dézip sur votre ordinateur
 
-Aller dans le dossier du projet, puis tapper la commande suivante
+Allez dans le dossier du projet, puis tapper la commande suivante
 
 ```
 pip install pyserial
 ```
 
-Connectez-vous au HC-05 depuis le bluetooth de votre ordinateur, et rentrer le code secret du module HC-05
+Connectez-vous au HC-05 depuis le bluetooth de votre ordinateur, et rentrez le code secret du module HC-05
 
-Puis double cliquer sur program.py !
+Puis double cliquez sur program.py !
